@@ -22,6 +22,8 @@ public class SimulatorCreditMain
                 int currentLine = 0;
                 while(scannerFile.hasNext()) {
                     if(currentLine == 0) {
+                        currentLine++;
+                        scannerFile.next();
                         continue;
                     }
 
