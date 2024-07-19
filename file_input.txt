@@ -1,0 +1,2 @@
+vehicle_type|vehicle_condition|vehicle_year|loan_amount|installment_year|loan_down_payment
+car|new|2024|100000000|3|25000000
